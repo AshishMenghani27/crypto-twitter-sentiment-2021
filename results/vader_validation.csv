@@ -1,0 +1,5 @@
+class,precision_pct,recall_pct,human_labelled,vader_predicted,correct
+POSITIVE,96.3,89.66,29,27,26
+NEGATIVE,33.33,66.67,3,6,2
+NEUTRAL,85.71,75.0,8,7,6
+OVERALL (accuracy),85.0,85.0,40,40,34

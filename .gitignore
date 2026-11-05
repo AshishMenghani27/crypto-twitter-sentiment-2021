@@ -1,0 +1,21 @@
+# Private tweet data: never commit (see data/README.md)
+data/raw/
+data/annotation/sample_tweets_annotation_template.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Local re-run outputs
+executed/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Local helper: contains the strings it checks for, never publish
+GIT_SETUP_COMMANDS.sh
